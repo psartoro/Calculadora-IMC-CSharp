@@ -1,0 +1,15 @@
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/bin/Debug/net6.0/IMC
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/bin/Debug/net6.0/IMC.deps.json
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/bin/Debug/net6.0/IMC.runtimeconfig.json
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/bin/Debug/net6.0/IMC.dll
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/bin/Debug/net6.0/IMC.pdb
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/IMC.csproj.AssemblyReference.cache
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/IMC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/IMC.AssemblyInfoInputs.cache
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/IMC.AssemblyInfo.cs
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/IMC.csproj.CoreCompileInputs.cache
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/IMC.dll
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/refint/IMC.dll
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/IMC.pdb
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/IMC.genruntimeconfig.cache
+/Users/psartoro/Documents/projetosCSharp/DIO/IMC/obj/Debug/net6.0/ref/IMC.dll
